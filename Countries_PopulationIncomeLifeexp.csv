@@ -1,0 +1,262 @@
+,country,income,population,life_expectancy,continent
+0,Abkhazia,,,,Asia
+1,Afghanistan,1925.0,32526562.0,53.8,Asia
+2,Akrotiri and Dhekelia,,,,Europe
+3,Albania,10620.0,2896679.0,78.0,Europe
+4,Algeria,13434.0,39666519.0,76.4,Africa
+5,American Samoa,,55538.0,72.9,Oceania
+6,Andorra,46577.0,70473.0,84.8,Europe
+7,Angola,7615.0,25021974.0,59.6,Africa
+8,Anguilla,,14614.0,,North America
+9,Antigua and Barbuda,21049.0,91818.0,76.4,Central America
+10,Argentina,17344.0,43416755.0,76.5,South America
+11,Armenia,7763.0,3017712.0,74.7,Asia
+12,Aruba,37138.0,103889.0,75.72,South America
+13,Australia,44056.0,23968973.0,82.3,Australia
+14,Austria,44401.0,8544586.0,81.3,Europe
+15,Azerbaijan,16986.0,9753968.0,72.9,Asia
+16,Bahamas,22818.0,388019.0,73.7,Central America
+17,Bahrain,44138.0,1377237.0,79.1,Asia
+18,Bangladesh,3161.0,160995642.0,70.4,Asia
+19,Barbados,12984.0,284215.0,75.7,Central America
+20,Belarus,17415.0,9495826.0,71.0,Europe
+21,Belgium,41240.0,11299192.0,80.5,Europe
+22,Belize,8501.0,359287.0,71.7,North America
+23,Benin,1830.0,10879829.0,62.3,Africa
+24,Bermuda,47081.0,62004.0,78.5,North America
+25,Bhutan,7983.0,774830.0,72.7,Asia
+26,Bolivia,6295.0,10724705.0,73.2,South America
+27,Bosnia and Herzegovina,9833.0,3810416.0,78.9,Europe
+28,Botswana,17196.0,2262485.0,58.7,Africa
+29,Brazil,15441.0,207847528.0,74.4,South America
+30,British Virgin Islands,,30117.0,,North America
+31,Brunei,73003.0,423188.0,77.1,Asia
+32,Bulgaria,16371.0,7149787.0,74.8,Europe
+33,Burkina Faso,1654.0,18105570.0,60.9,Africa
+34,Burundi,777.0,11178921.0,61.4,Africa
+35,Cambodia,3267.0,15577899.0,69.4,Asia
+36,Cameroon,2897.0,23344179.0,59.4,Africa
+37,Canada,43294.0,35939927.0,81.7,North America
+38,Cape Verde,6514.0,520502.0,72.9,Africa
+39,Cayman Islands,49009.0,59967.0,,North America
+40,Central African Republic,599.0,4900274.0,49.6,Africa
+41,Chad,2191.0,14037472.0,57.4,Africa
+42,Channel Islands,,163692.0,80.61,Europe
+43,Chile,22465.0,17948141.0,79.4,South America
+44,China,13334.0,1376048943.0,76.2,Asia
+45,Christmas Island,,,,Asia
+46,Cocos Island,,,,Asia
+47,Colombia,12761.0,48228704.0,78.0,South America
+48,Comoros,1472.0,788474.0,68.1,Africa
+49,"Congo, Dem. Rep.",809.0,77266814.0,60.8,Africa
+50,"Congo, Rep.",6220.0,4620330.0,61.5,Africa
+51,Cook Is,,20833.0,,Oceania
+52,Costa Rica,14132.0,4807850.0,80.3,Central America
+53,Cote d'Ivoire,3491.0,22701556.0,59.1,Africa
+54,Croatia,20260.0,4240317.0,77.8,Europe
+55,Cuba,21291.0,11389562.0,78.2,South America
+56,Cyprus,29797.0,1165300.0,81.8,Europe
+57,Czech Republic,29437.0,10543186.0,78.8,Europe
+58,Czechoslovakia,,,,Europe
+59,Denmark,43495.0,5669081.0,80.4,Europe
+60,Djibouti,3139.0,887861.0,63.8,Africa
+61,Dominica,10503.0,72680.0,73.1,Central America
+62,Dominican Republic,12837.0,10528391.0,75.3,Central America
+63,East Germany,,,,Europe
+64,Ecuador,10996.0,16144363.0,75.9,South America
+65,Egypt,11031.0,91508084.0,71.5,Africa
+66,El Salvador,7776.0,6126583.0,74.9,Central America
+67,Equatorial Guinea,31087.0,845060.0,61.0,Africa
+68,Eritrea,1129.0,5227791.0,60.7,Africa
+69,Eritrea and Ethiopia,,,,Africa
+70,Estonia,26812.0,1312558.0,77.8,Europe
+71,Ethiopia,1520.0,99390750.0,65.2,Africa
+72,Faeroe Islands,,48199.0,,Europe
+73,Falkland Is (Malvinas),,2903.0,,South America
+74,Fiji,7925.0,892145.0,65.8,Oceania
+75,Finland,38923.0,5503457.0,80.9,Europe
+76,France,37599.0,64395345.0,81.8,Europe
+77,French Guiana,,268606.0,77.58,South America
+78,French Polynesia,,282764.0,76.69,Oceania
+79,Gabon,18627.0,1725292.0,65.9,Africa
+80,Gambia,1644.0,1990924.0,68.1,Africa
+81,Georgia,7474.0,3999812.0,72.9,Asia
+82,Germany,44053.0,80688545.0,80.8,Europe
+83,Ghana,4099.0,27409893.0,65.3,Africa
+84,Gibraltar,,32217.0,,Europe
+85,Greece,25430.0,10954617.0,81.0,Europe
+86,Greenland,27763.0,56186.0,72.1,North America
+87,Grenada,11593.0,106825.0,71.5,North America
+88,Guadeloupe,,468450.0,81.41,North America
+89,Guam,,169885.0,71.7,Oceania
+90,Guatemala,7279.0,16342897.0,72.6,Central America
+91,Guernsey,,,,Europe
+92,Guinea,1225.0,12608590.0,59.1,Africa
+93,Guinea-Bissau,1386.0,1844325.0,55.6,Africa
+94,Guyana,6816.0,767085.0,66.8,South America
+95,Haiti,1710.0,10711067.0,64.3,Central America
+96,Holy See,,800.0,,Europe
+97,Honduras,4270.0,8075060.0,73.0,Central America
+98,"Hong Kong, China",53874.0,7287983.0,83.73,Asia
+99,Hungary,24200.0,9855023.0,76.7,Europe
+100,Iceland,42182.0,329425.0,83.3,Europe
+101,India,5903.0,1311050527.0,67.2,Asia
+102,Indonesia,10504.0,257563815.0,71.1,Asia
+103,Iran,15573.0,79109272.0,74.6,Asia
+104,Iraq,14646.0,36423395.0,67.4,Asia
+105,Ireland,47758.0,4688465.0,81.7,Europe
+106,Isle of Man,,87780.0,,Europe
+107,Israel,31590.0,8064036.0,82.1,Asia
+108,Italy,33297.0,59797685.0,82.2,Europe
+109,Jamaica,8606.0,2793335.0,75.0,Central America
+110,Japan,36162.0,126573481.0,83.2,Asia
+111,Jersey,,,,Europe
+112,Jordan,11752.0,7594547.0,78.5,Asia
+113,Kazakhstan,23468.0,17625226.0,70.2,Asia
+114,Kenya,2898.0,46050302.0,65.1,Africa
+115,Kiribati,1824.0,112423.0,63.0,Oceania
+116,North Korea,1390.0,25155317.0,72.1,Asia
+117,South Korea,34644.0,50293439.0,81.0,Asia
+118,"United Korea (former)
+",,,,
+119,Kosovo,9021.0,,,Europe
+120,Kuwait,82633.0,3892115.0,80.3,Asia
+121,Kyrgyz Republic,3245.0,5939962.0,69.8,Asia
+122,Lao,5212.0,6802023.0,67.1,Asia
+123,Latvia,23282.0,1970503.0,75.4,Europe
+124,Lebanon,17050.0,5850743.0,78.9,Asia
+125,Lesotho,2598.0,2135022.0,47.1,Africa
+126,Liberia,958.0,4503438.0,63.2,Africa
+127,Libya,17261.0,6278438.0,74.1,Africa
+128,Liechtenstein,,37531.0,,Europe
+129,Lithuania,26665.0,2878405.0,75.2,Europe
+130,Luxembourg,88314.0,567110.0,82.2,Europe
+131,"Macao, China",148374.0,587606.0,80.82,Asia
+132,"Macedonia, FYR",12547.0,2078453.0,76.5,Europe
+133,Madagascar,1400.0,24235390.0,63.5,Africa
+134,Malawi,799.0,17215232.0,60.5,Africa
+135,Malaysia,24320.0,30331007.0,75.3,Asia
+136,Maldives,14408.0,363657.0,80.0,Asia
+137,Mali,1684.0,17599694.0,60.2,Africa
+138,Malta,30265.0,418670.0,82.1,Europe
+139,Marshall Islands,3661.0,52993.0,66.9,Oceania
+140,Martinique,,396425.0,81.86,North America
+141,Mauritania,3877.0,4067564.0,69.7,Africa
+142,Mauritius,18350.0,1273212.0,74.5,Africa
+143,Mayotte,,240015.0,79.65,Africa
+144,Mexico,16850.0,127017224.0,75.9,Central America
+145,"Micronesia, Fed. Sts.",3510.0,104460.0,68.9,Oceania
+146,Moldova,4896.0,4068897.0,73.9,Europe
+147,Monaco,63472.0,37731.0,,Europe
+148,Mongolia,11819.0,2959134.0,67.1,Asia
+149,Montenegro,14833.0,625781.0,77.2,Europe
+150,Montserrat,,5125.0,,North America
+151,Morocco,7319.0,34377511.0,74.6,Africa
+152,Mozambique,1176.0,27977863.0,57.1,Africa
+153,Myanmar,4012.0,53897154.0,68.0,Asia
+154,Namibia,10040.0,2458830.0,64.2,Africa
+155,Nauru,16686.0,10222.0,,Oceania
+156,Nepal,2352.0,28513700.0,69.7,Asia
+157,Netherlands,45784.0,16924929.0,81.3,Europe
+158,Netherlands Antilles,,,77.14,South America
+159,New Caledonia,,263118.0,76.74,Oceania
+160,New Zealand,34186.0,4528526.0,81.4,Oceania
+161,Ngorno-Karabakh,,,,Asia
+162,Nicaragua,4712.0,6082032.0,78.0,Central America
+163,Niger,943.0,19899120.0,61.0,Africa
+164,Nigeria,5727.0,182201962.0,64.6,Africa
+165,Niue,,1610.0,,Oceania
+166,Norfolk Island,,,,Oceania
+167,Northern Cyprus,,,,Asia
+168,Northern Mariana Islands,,55070.0,76.2,Oceania
+169,Norway,64304.0,5210967.0,82.0,Europe
+170,Oman,48226.0,4490541.0,77.2,Asia
+171,Pakistan,4743.0,188924874.0,65.9,Asia
+172,Palau,14315.0,21291.0,,Oceania
+173,Panama,20485.0,3929141.0,78.2,Central America
+174,Papua New Guinea,2529.0,7619321.0,60.9,Oceania
+175,Paraguay,8219.0,6639123.0,74.4,South America
+176,Peru,11903.0,31376670.0,79.5,South America
+177,Philippines,6876.0,100699395.0,71.0,Asia
+178,Pitcairn,,,,Oceania
+179,Poland,24787.0,38611794.0,77.6,Europe
+180,Portugal,26437.0,10349803.0,80.8,Europe
+181,Puerto Rico,33604.0,3683238.0,78.5,North America
+182,Qatar,132877.0,2235355.0,79.7,Asia
+183,Reunion,,861154.0,80.12,Africa
+184,Romania,19203.0,19511324.0,75.2,Europe
+185,Russia,23038.0,143456918.0,71.0,Asia
+186,Rwanda,1549.0,11609666.0,65.9,Africa
+187,St. Barthélemy,,,,North America
+188,St. Helena,,3961.0,,Africa
+189,St. Kitts and Nevis,21896.0,55572.0,,Central America
+190,St. Lucia,9997.0,184999.0,74.8,Central America
+191,St. Martin,,,,North America
+192,St. Vincent and the Grenadines,10435.0,109462.0,71.2,Central America
+193,St.-Pierre-et-Miquelon,,6288.0,,North America
+194,Samoa,5558.0,193228.0,73.2,Oceania
+195,San Marino,40075.0,31781.0,,Europe
+196,Sao Tome and Principe,3003.0,190344.0,68.0,Africa
+197,Saudi Arabia,52469.0,31540372.0,79.5,Asia
+198,Senegal,2251.0,15129273.0,65.3,Africa
+199,Serbia,12908.0,8850975.0,76.2,Europe
+200,Serbia and Montenegro,,,,Europe
+201,Serbia excluding Kosovo,,,,Europe
+202,Seychelles,25684.0,96471.0,74.1,Africa
+203,Sierra Leone,2085.0,6453184.0,57.1,Africa
+204,Singapore,80794.0,5603740.0,82.0,Asia
+205,Slovak Republic,27204.0,5426258.0,77.6,Europe
+206,Slovenia,28550.0,2067526.0,80.9,Europe
+207,Solomon Islands,2047.0,583591.0,64.0,Oceania
+208,Somalia,624.0,10787104.0,54.2,Africa
+209,Somaliland,,,,Africa
+210,South Africa,12509.0,54490406.0,61.3,Africa
+211,South Ossetia,,,,Asia
+212,Spain,32979.0,46121699.0,82.6,Europe
+213,Sri Lanka,10624.0,20715010.0,77.6,Asia
+214,Sudan,3975.0,40234882.0,67.5,Africa
+215,Suriname,17125.0,542975.0,72.0,South America
+216,Svalbard,,,,Europe
+217,Swaziland,6095.0,1286970.0,51.8,Africa
+218,Sweden,44892.0,9779426.0,82.1,Europe
+219,Switzerland,56118.0,8298663.0,83.0,Europe
+220,Syria,4637.0,18502413.0,68.2,Asia
+221,Taiwan,42948.0,,79.5,Asia
+222,Tajikistan,2582.0,8481855.0,72.4,Asia
+223,Tanzania,2571.0,53470420.0,64.1,Africa
+224,Thailand,14512.0,67959359.0,74.7,Asia
+225,Timor-Leste,2086.0,1184765.0,72.4,Oceania
+226,Togo,1433.0,7304578.0,61.5,Africa
+227,Tokelau,,1250.0,,Oceania
+228,Tonga,5069.0,106170.0,71.5,Oceania
+229,Transnistria,,,,Europe
+230,Trinidad and Tobago,30113.0,1360088.0,72.4,Central America
+231,Tunisia,11126.0,11253554.0,77.6,Africa
+232,Turkey,19360.0,78665830.0,79.2,Asia
+233,Turkmenistan,15865.0,5373502.0,70.0,Asia
+234,Turks and Caicos Islands,20068.0,34339.0,,North America
+235,Tuvalu,3622.0,9916.0,,Oceania
+236,Uganda,1680.0,39032383.0,61.3,Africa
+237,Ukraine,8449.0,44823765.0,71.5,Europe
+238,United Arab Emirates,60749.0,9156963.0,75.4,Asia
+239,United Kingdom,38225.0,64715810.0,81.0,Europe
+240,United States,53354.0,321773631.0,79.1,North America
+241,Uruguay,20438.0,3431555.0,76.8,South America
+242,USSR,,,,Asia
+243,Uzbekistan,5598.0,29893488.0,71.8,Asia
+244,Wallis et Futuna,,13151.0,,Oceania
+245,Vanuatu,2912.0,264652.0,64.9,Oceania
+246,Venezuela,15753.0,31108083.0,74.8,South America
+247,West Bank and Gaza,4319.0,4668466.0,74.6,Asia
+248,West Germany,,,,Europe
+249,Western Sahara,,572540.0,68.3,Africa
+250,Vietnam,5623.0,93447601.0,75.4,Asia
+251,Virgin Islands (U.S.),,106291.0,80.6,North America
+252,North Yemen (former),,,,Asia
+253,South Yemen (former),,,,Asia
+254,Yemen,3887.0,26832215.0,66.0,Asia
+255,Yugoslavia,,,,Europe
+256,Zambia,4034.0,16211767.0,56.7,Africa
+257,Zimbabwe,1801.0,15602751.0,59.3,Africa
+258,Åland,,,,Europe
+259,South Sudan,3047.0,12339812.0,56.1,Africa
